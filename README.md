@@ -142,7 +142,7 @@ There are two types of users: One is a subscriber or member and the other is a c
 - In **San Francisco**, **the demands from subscribers drop on weekends** however, **the casual users' demands are steady** regardless of the day of the week.
 - In **Los Angeles and Washington DC**, **casual users** use bike sharing services **more on weekends**. During the weekdays demands from casual users are steady and **increase on weekends**.
 
-### 5. Further Study
+## 5. Further Study
 Further studies are needed to find the following answers:
 - Why demands patterns in the three cities are different, especially on weekends?
 - Why the average trip duration in Los Angeles is longer than the other two cities?
