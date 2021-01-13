@@ -14,6 +14,7 @@ Metro Bike Share System is available in Downtown LA, Central LA, and North Holly
 ### 1.3 Washington DC
 In the Washington DC area, Capital Bikeshare service is available. The dataset contains approximately 3.4 million rides information and it can be download at https://www.capitalbikeshare.com/system-data
 
+##### Datasets are also available at 
 ## 2. Dataset Structure
 The datasets from three bike-share systems are different data structures.
 
